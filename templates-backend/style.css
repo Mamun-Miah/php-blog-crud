@@ -1,0 +1,11 @@
+body {
+ display: flex;
+}
+header {
+    padding-right: 20px;
+    text-decoration: none;
+}
+.creat-post {
+    display: flex;
+    flex-direction: column;
+}
